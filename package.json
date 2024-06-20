@@ -6,7 +6,7 @@
     "eslint": "8.57.0"
   },
   "scripts": {
-    "lint": "echo "coucou" ",
+    "lint": "echo coucou ",
     "start": "node app.js"
   }
 }
